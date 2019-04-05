@@ -1,4 +1,14 @@
 {
   "users": {
-  }
+  }, 
+  "hospitals": [
+    {
+      "id": 1,
+      "title": "p1"
+    }, 
+    {
+       "id": 2,
+       "title": "p2"
+    },
+  ]
 }
